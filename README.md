@@ -8,7 +8,15 @@
   
       UI Design: 
       
+      ![image](https://user-images.githubusercontent.com/72083631/150505349-4da78e18-86c5-4f40-aab2-01e133c135fb.png)
       
+4.Screenshots of my app:
+
+      1. Initial State
+      2. Upcounting (7 times)
+      3. Downcounting (1 time)
+      4. Notes
+
   
   
   
